@@ -1,2 +1,2 @@
 # to-do-list-app
- jquery to so list
+ Here I am creating a simple to-do list where users can add items, remove them, or cross them out.
